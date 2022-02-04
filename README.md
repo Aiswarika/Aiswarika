@@ -127,7 +127,18 @@
 </details>
 
   <br/>
-
+  
+  ## :computer: Group Projects 
+  
+  <p align="left">
+  <a href="https://github.com/shubham0112/Dell_hackathon.git"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shubham0112&repo=Dell_hackathon&theme=algolia&bg_color=1F222E&title_color=388fe0&icon_color=F8D866&hide_border=true&show_icons=false" alt="Dell_hackathon"></a>
+  <a href="https://github.com/menakinako/Xray-Xpress.git"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=menakinako&repo=Xray-Xpress&theme=algolia&bg_color=1F222E&title_color=388fe0&icon_color=F8D866&hide_border=true&show_icons=false" alt="Xray-Xpress"></a>
+  </p>
+  
+  
+  
+  <br/>
+  
 ## 🙋‍♀️ Let's Connect
 <p align="center">
 	<a href="mailto:aiswarika2001@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
